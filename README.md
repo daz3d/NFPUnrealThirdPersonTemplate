@@ -14,7 +14,7 @@ This provides an Unreal Engine template that can get you started using your NFP 
 ![New project](/docimages/SelectTemplate1.png?raw=true "Select new game")
 9. Select the "G8 Third Person" template and click "Next."
 ![Select template](/docimages/SelectTemplate2.png?raw=true "Select the template")
-10. Name the project and click "Create Project"
+10. Name the project and click "Create Project"</br>
 ![Name project](/docimages/SelectTemplate3.png?raw=true "Select name")
 11. The project will load, and you will be able to hit Play and run around.
 ![Startup view](/docimages/ProjectStartView.png?raw=true "Project Start View")
