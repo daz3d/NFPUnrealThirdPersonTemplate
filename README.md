@@ -28,3 +28,4 @@ This provides an Unreal Engine template that can get you started using your NFP 
 18. In the Details panel on the bottom right, look under Mesh, there is a field called "Skelatal Mesh"
 19. Set the Skeletal Mesh to your NFP (which should be labeled something like nfp01[nfp#])
 20. Hit play and run around
+![NFP in scene](/docimages/NFPInScene.png?raw=true "NFP in the scene")
