@@ -23,7 +23,7 @@ This provides an Unreal Engine template that can get you started using your NFP 
 ![Unparent](/docimages/Unparent.png?raw=true "Unparent NFP")
 14. Select the NFP and then use "File->Send To->Daz to Unreal"
 15. Use the default settings and press Accept
-16. Go back to the Unreal Editor
+16. Go back to the Unreal Editor, and wait for the import to be processed.  You can ignore any windows that popup during the import, the default settings will work.
 17. Look in the World Outliner on the right side, scroll down to the bottom to select the "ThirdPersonCharacter"
 18. In the Details panel on the bottom right, look under Mesh, there is a field called "Skelatal Mesh"
 19. Set the Skeletal Mesh to your NFP (which should be labeled something like nfp01[nfp#])
