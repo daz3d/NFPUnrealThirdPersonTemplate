@@ -5,7 +5,7 @@ This provides an Unreal Engine template that can get you started using your NFP 
 1. Follow this video to install your NFP into Daz Studio: https://www.youtube.com/watch?v=FxQSvuRn-_A
 2. Install the latest Unreal Engine bridge, using the steps listed here: https://davidvodhanel.com/daz-to-unreal-manually-updating/
 * Note - Use this location for the bridge: https://github.com/David-Vodhanel/DazToRuntime/releases.  The one in the Daz Studio github still needs to be updated to this.
-3. Download the latest NFP Unreal Third Person Template from here: [Needs url to released package page]
+3. Download the latest NFP Unreal Third Person Template from here: https://github.com/daz3d/NFPUnrealThirdPersonTemplate/releases
 4. In the zip file properties, choose "Unblock"
 5. Determine where you have Unreal Engine installed (Probably under C:\Program Files\UE_[version])
 6. Unzip the zip file to the Templates subfolder
